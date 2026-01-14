@@ -1,6 +1,6 @@
 # Crud Produtos
 
-Bem-vindo ao repositório de crud de produtos! Este projeto foi desenvolvido como atividade prática da matéria Aplicações para WEB 2 no curso de técnico de Informática do CEFET-MG.
+Bem-vindo ao repositório de crud de produtos! Este projeto foi desenvolvido como atividade prática da matéria Aplicações para WEB 2 no curso técnico de informática do CEFET-MG.
 
 
 ## Requisitos:
