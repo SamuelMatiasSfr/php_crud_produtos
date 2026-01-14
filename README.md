@@ -7,7 +7,7 @@ Bem-vindo ao repositório de crud de produtos! Este projeto foi desenvolvido com
 - XAMPP instalado 
 - MySQL instalado
 
-## ⚙️Configuração⚙️
+## ⚙️ Configuração
 
 Siga as etapas abaixo:
 
