@@ -1,6 +1,6 @@
 # Sistema de Gerenciamento de Produtos
 
-Sistema em PHP para gerenciar produtos, permitindo cadastro, edição e exclusão de registros. Este projeto foi desenvolvido como atividade prática da matéria Aplicações para WEB 2 no curso técnico de informática do CEFET-MG.
+Sistema em PHP para gerenciar produtos, permitindo cadastro, edição e exclusão de registros. Este projeto foi desenvolvido como atividade prática de Aplicações para WEB 2 no curso técnico de informática do CEFET-MG.
 
 ## Funcionalidades:
 - Cadastrar produtos
