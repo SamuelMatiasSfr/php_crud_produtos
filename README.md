@@ -1,23 +1,21 @@
-# Crud Produtos
+# Sistema de Gerenciamento de Produtos
 
-Bem-vindo ao repositório de crud de produtos! Este projeto foi desenvolvido como atividade prática da matéria Aplicações para WEB 2 no curso técnico de informática do CEFET-MG.
+Projeto em PHP para gerenciar produtos, permitindo cadastro, edição e exclusão de registros. Este projeto foi desenvolvido como atividade prática da matéria Aplicações para WEB 2 no curso técnico de informática do CEFET-MG.
 
+## Funcionalidades:
+- Cadastrar produtos
+- Editar produtos
+- Excluir produtos
+- Listar produtos em uma tabela 
 
-## ✔ Requisitos:
-- XAMPP instalado 
-- MySQL instalado
+## Tecnologias:
+- PHP
+- MySQL
+- VS Code
 
-## ⚙️ Configuração
-
-Siga as etapas abaixo:
-
-1. Clone ou Baixe o Repositório
-    - Baixe e extraia o arquivo zip
-    - Copie o projeto principal (pasta crud_produtos) para a pasta C:\xampp\htdocs no Disco Local
-      
-2. Configuração do Projeto
-    - Abra o XAMPP e inicie o Apache e o MySQL
-    - Abra o SGBD de sua preferência (SQL Server, phMyAdmin) e rode o script do arquivo: script_banco.txt
-    - Abra o navegador e digite no campo de pesquisa http://localhost/crud_produtos/tela_produtos.php
-
-3. Teste o projeto
+## Como executar
+1. Baixe e extraia o arquivo zip do projeto
+2. Copie a pasta principal do projeto (pasta crud_produtos) para a pasta `C:\xampp\htdocs`
+3. Abra o SGBD de sua preferência e rode o script do arquivo: script_banco.txt
+4. Abra o navegador e digite no campo de pesquisa `http://localhost/crud_produtos/tela_produtos.php`
+5. Teste o projeto
