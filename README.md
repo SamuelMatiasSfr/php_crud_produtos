@@ -2,13 +2,13 @@
 
 Sistema em PHP para gerenciar produtos, permitindo cadastro, edição e exclusão de registros. Este projeto foi desenvolvido como atividade prática de Aplicações para WEB 2 no curso técnico de informática do CEFET-MG.
 
-## Funcionalidades:
+## Funcionalidades
 - Cadastrar produtos
 - Editar produtos
 - Excluir produtos
 - Listar produtos em uma tabela 
 
-## Tecnologias:
+## Tecnologias usadas
 - PHP
 - MySQL
 - VS Code
