@@ -2,6 +2,13 @@
 
 Sistema em PHP para gerenciar produtos, permitindo cadastro, edição e exclusão de registros. Este projeto foi desenvolvido como atividade prática de Aplicações para WEB 2 no curso técnico de informática do CEFET-MG.
 
+## Objetivos
+- Praticar desenvolvimento backend com PHP
+- Implementar operações de CRUD com integração ao banco de dados MySQL
+- Trabalhar com manipulação de dados no servidor (requisições, formulários e respostas).
+- Entender a comunicação entre frontend e backend
+- Consolidar o uso de SQL em operações reais dentro de uma aplicação web
+
 ## Funcionalidades
 - Cadastrar produtos
 - Editar produtos
