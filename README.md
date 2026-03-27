@@ -32,7 +32,7 @@ Sistema em PHP para gerenciar produtos, permitindo cadastro, edição e exclusã
 ## Telas do Sistema
 
 ### Tela de Cadastro de Produtos
-<img width="500" height="450" alt="image" src="https://github.com/user-attachments/assets/995d7ac7-7f03-4d21-b15b-5d8fa2047bef" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/995d7ac7-7f03-4d21-b15b-5d8fa2047bef" />
 
 ### Tela de Atualização de Produtos
-<img width="500" height="450" alt="image" src="https://github.com/user-attachments/assets/8914335b-781b-4f7d-ae38-c00fbf00faae" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/8914335b-781b-4f7d-ae38-c00fbf00faae" />
