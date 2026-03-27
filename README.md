@@ -17,8 +17,8 @@ Sistema em PHP para gerenciar produtos, permitindo cadastro, edição e exclusã
 
 ## Tecnologias usadas
 - PHP
-- Bootstrap
 - MySQL
+- Bootstrap
 - VS Code
 
 ## Como executar
