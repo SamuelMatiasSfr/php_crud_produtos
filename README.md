@@ -10,6 +10,7 @@ Sistema em PHP para gerenciar produtos, permitindo cadastro, edição e exclusã
 
 ## Tecnologias usadas
 - PHP
+- Bootstrap
 - MySQL
 - VS Code
 
@@ -20,3 +21,11 @@ Sistema em PHP para gerenciar produtos, permitindo cadastro, edição e exclusã
 4. Abra o XAMPP e inicie o Apache e o MySQL
 5. Abra o navegador e digite no campo de pesquisa **localhost/crud_produtos/tela_produtos.php**
 6. Teste o projeto
+
+## Telas do Sistema
+
+### Tela de Cadastro de Produtos
+<img width="500" height="450" alt="image" src="https://github.com/user-attachments/assets/995d7ac7-7f03-4d21-b15b-5d8fa2047bef" />
+
+### Tela de Atualização de Produtos
+<img width="500" height="450" alt="image" src="https://github.com/user-attachments/assets/8914335b-781b-4f7d-ae38-c00fbf00faae" />
