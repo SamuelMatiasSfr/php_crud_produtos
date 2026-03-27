@@ -5,7 +5,7 @@ Sistema em PHP para gerenciar produtos, permitindo cadastro, edição e exclusã
 ## Objetivos
 - Praticar desenvolvimento backend com PHP
 - Implementar operações de CRUD com integração ao banco de dados MySQL
-- Trabalhar com manipulação de dados no servidor (requisições, formulários e respostas).
+- Trabalhar com manipulação de dados no servidor (requisições, formulários e respostas)
 - Entender a comunicação entre frontend e backend
 - Consolidar o uso de SQL em operações reais dentro de uma aplicação web
 
