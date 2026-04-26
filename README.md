@@ -2,7 +2,7 @@
 
 Sistema web desenvolvido em PHP para gerenciamento de produtos, permitindo o cadastro, edição e exclusão de registros.
 
-O projeto foi desenvolvido como atividade prática da disciplina Aplicações para Web II, no curso técnico em Informática do CEFET-MG.
+O projeto foi desenvolvido como atividade prática da disciplina Aplicações para Web II, no curso técnico em informática do CEFET-MG.
 
 ## Status do Projeto
 
@@ -58,7 +58,7 @@ Este projeto foi desenvolvido para fins acadêmicos e não está mais em manuten
 ## Telas do Sistema
 
 ### Tela de Cadastro de Produtos
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/995d7ac7-7f03-4d21-b15b-5d8fa2047bef" />
+<img width="550" height="500" alt="image" src="https://github.com/user-attachments/assets/995d7ac7-7f03-4d21-b15b-5d8fa2047bef" />
 
 ### Tela de Atualização de Produtos
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/8914335b-781b-4f7d-ae38-c00fbf00faae" />
+<img width="550" height="500" alt="image" src="https://github.com/user-attachments/assets/8914335b-781b-4f7d-ae38-c00fbf00faae" />
