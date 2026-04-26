@@ -1,6 +1,16 @@
 # Sistema de Gerenciamento de Produtos
 
-Sistema em PHP para gerenciar produtos, permitindo cadastro, edição e exclusão de registros. Este projeto foi desenvolvido como atividade prática de Aplicações para WEB 2 no curso técnico de informática do CEFET-MG.
+Sistema web desenvolvido em PHP para gerenciamento de produtos, permitindo o cadastro, edição e exclusão de registros.
+
+O projeto foi desenvolvido como atividade prática da disciplina Aplicações para Web II, no curso técnico em Informática do CEFET-MG.
+
+## Status do Projeto
+
+Projeto estável e pronto para uso.
+
+Este projeto foi desenvolvido para fins acadêmicos e não está mais em manutenção. O projeto é mantido aqui como demonstração de conceito e aprendizado.
+
+---
 
 ## Objetivos
 - Praticar desenvolvimento backend com PHP
@@ -17,18 +27,33 @@ Sistema em PHP para gerenciar produtos, permitindo cadastro, edição e exclusã
 
 ## Tecnologias usadas
 - PHP
+- HTML
 - SQL
 - MySQL
+- XAMPP
 - Bootstrap
 - VS Code
 
-## Como executar
-1. Baixe e extraia o arquivo zip do projeto
-2. Copie a pasta crud_produtos para a pasta C:\xampp\htdocs\
-3. Abra o SGBD de sua preferência e execute o script do arquivo script_banco.txt
+---
+
+## Como Executar 
+
+### Requisitos
+- XAMPP
+- PHP 7.0 ou superior
+- MySQL
+
+### Execução
+1. Baixe e extraia o arquivo `.zip` do projeto
+2. Copie a pasta `crud_produtos` para `C:\xampp\htdocs`
+3. Abra o phpMyAdmin e execute o script do arquivo `script_banco.txt`
 4. Abra o XAMPP e inicie o Apache e o MySQL
-5. Abra o navegador e digite no campo de pesquisa localhost/crud_produtos/tela_produtos.php
+5. Acesse o projeto no navegador: `localhost/crud_produtos/tela_produtos.php`
 6. Teste o projeto
+
+> Este projeto também pode funcionar em outros servidores locais e sistemas de banco de dados compatíveis com PHP e SQL, com pequenas adaptações de configuração.
+
+---
 
 ## Telas do Sistema
 
