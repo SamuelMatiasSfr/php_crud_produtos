@@ -57,6 +57,8 @@ Este projeto foi desenvolvido para fins acadêmicos e não está mais em manuten
 
 ## Telas do Sistema
 
+A seguir, estão algumas telas do sistema que ilustram sua interface e funcionamento.
+
 ### Tela de Cadastro de Produtos
 <img width="550" height="500" alt="image" src="https://github.com/user-attachments/assets/995d7ac7-7f03-4d21-b15b-5d8fa2047bef" />
 
